@@ -1,0 +1,11 @@
+Projenin kaynak kodlarý "tasarým denemesi" klasöründedir.
+"Hamburger Sipariþ Otomasyonu" uygulamanýn kurulmuþ hali, "Hamburger Sipariþ Otomasyonu.msi" ise programýn setup ýdýr.
+ Setup'a týkladýktan sonra next next diyip kutulumu tamamlayýn.
+Uygulamanýn kullanýmý hakkýnda "tanýtým videosu" adlý video hazýrlanmýþtýr.
+
+Programýn içindeki her kullanýcý adý "admin", her þifre ise "12345" tir.
+
+						
+
+
+						Recep Gümüþ 

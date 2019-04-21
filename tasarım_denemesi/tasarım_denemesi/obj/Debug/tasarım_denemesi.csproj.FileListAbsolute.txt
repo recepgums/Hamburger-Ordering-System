@@ -1,0 +1,83 @@
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe.config
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.exe
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.pdb
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.pdb
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csprojResolveAssemblyReference.cache
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Form1.resources
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Form2.resources
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Hamburgeruser.resources
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.kullanıcı_kontol1.resources
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Properties.Resources.resources
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csproj.GenerateResource.Cache
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.UserControl1.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe.config
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.pdb
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.dondurma.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Form2.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Hamburgeruser.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.kullanıcı_kontol1.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Properties.Resources.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csproj.GenerateResource.Cache
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.exe
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.pdb
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.tatlılar.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.icecekler.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.frm_ana.resources
+C:\Users\Selahattin GÜNEŞ\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.odeme.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe.config
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.exe
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.pdb
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.pdb
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csprojResolveAssemblyReference.cache
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.dondurma.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.frm_ana.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Form2.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Hamburgeruser.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.kullanıcı_kontol1.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.odeme.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Properties.Resources.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.tatlılar.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.icecekler.resources
+C:\Users\Selahattin GÜNEŞ\Desktop\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csproj.GenerateResource.Cache
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe.config
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.exe
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.pdb
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.pdb
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csprojResolveAssemblyReference.cache
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.dondurma.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.frm_ana.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Form2.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Hamburgeruser.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.kullanıcı_kontol1.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.odeme.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Properties.Resources.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.tatlılar.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.icecekler.resources
+C:\Users\Atif şeşu\Desktop\tasarım_denemesi_yeni\tasarım_denemesi\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csproj.GenerateResource.Cache
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe.config
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.exe
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\tasarım_denemesi.pdb
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.aaaForm1.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.frm_ana_menu.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.gizli.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.menu2.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.dondurma.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.frm_musteri.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Hamburgeruser.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.kullanıcı_kontol1.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.odeme.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.Properties.Resources.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.tatlılar.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.icecekler.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.frm_yonetici.resources
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csproj.GenerateResource.Cache
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.exe
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.pdb
+C:\Users\Atif şeşu\Documents\Visual Studio 2015\Projects\tasarım_denemesi\tasarım_denemesi\obj\Debug\tasarım_denemesi.csprojResolveAssemblyReference.cache
