@@ -1,11 +1,11 @@
-Projenin kaynak kodları "tasarım denemesi" klasöründedir.
-"Hamburger Sipariş Otomasyonu" uygulamanın kurulmuş hali, "Hamburger Sipariş Otomasyonu.msi" ise programın setup ıdır.
- Setup'a tıkladıktan sonra next next diyip kutulumu tamamlayın.
-Uygulamanın kullanımı hakkında "tanıtım videosu" adlı video hazırlanmıştır.
+Projenin kaynak kodlarÄ± "tasarÄ±m denemesi" klasÃ¶rÃ¼ndedir.
+"Hamburger SipariÅŸ Otomasyonu" uygulamanÄ±n kurulmuÅŸ hali, "Hamburger SipariÅŸ Otomasyonu.msi" ise programÄ±n setup Ä±dÄ±r.
+ Setup'a tÄ±kladÄ±ktan sonra next next diyip kutulumu tamamlayÄ±n.
+UygulamanÄ±n kullanÄ±mÄ± hakkÄ±nda "tanÄ±tÄ±m videosu" adlÄ± video hazÄ±rlanmÄ±ÅŸtÄ±r.
 
-Programın içindeki her kullanıcı adı "admin", her şifre ise "12345" tir.
+ProgramÄ±n iÃ§indeki her kullanÄ±cÄ± adÄ± "admin", her ÅŸifre ise "12345" tir.
 
 						
+https://www.youtube.com/watch?v=pIQCqAm32aI
 
-
-						Recep Gümüş 
+						Recep GÃ¼mÃ¼ÅŸ 
